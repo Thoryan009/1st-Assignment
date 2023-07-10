@@ -88,6 +88,24 @@
     width: 300px;
 }
 
+/*-----------Instagram---------*/
+
+.instagram{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.instagram-imgs{
+    display: flex;
+    justify-content: space-around;
+    gap: 30px;
+    align-items: center;
+    padding-top: 50px;
+  
+    
+    
+}
+
 
 
 
@@ -127,4 +145,8 @@
 .add-img {
     width: 300px;
     padding: 50px;
+}
+.btn{
+    padding-left: 50px ;
+    margin-left: 200px;
 }
