@@ -13,7 +13,7 @@
    
     padding: 50px 200px;
     background-color: rgb(252, 232, 236);
-    width: 100%;
+    width: auto;
 
 }
 
@@ -93,6 +93,7 @@
 .instagram{
     text-align: center;
     padding-bottom: 25px;
+    
 }
 
 .instagram-imgs{
@@ -101,9 +102,13 @@
     gap: 30px;
     align-items: center;
     padding-top: 50px;
+    width: 100%;
   
     
     
+}
+.inst-img{
+    width: 250px;
 }
 
 
@@ -149,4 +154,24 @@
 .btn{
     padding-left: 50px ;
     margin-left: 200px;
+    font: 1em sans-serif;
+}
+
+/*------login part---------*/
+
+.login{
+    text-align: center;
+    padding-top: 100px;
+    height: auto;
+    margin-top: 100px;
+    padding-bottom: 100px;
+    background-image: url('./Flower Asset/Rectangle\ 9.png')
+    
+}
+input{
+    padding: 25px 500px 25px 25px;
+    border: none;
+    border-radius: 10px;
+    margin-right: 10px;
+    
 }
