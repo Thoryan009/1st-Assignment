@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+/*-----------banner---------*/
+
+.banner{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 50px 200px;
+    background-color: rgb(252, 232, 236);
+   
+    
+
+}
+
+
+
+.banner-header {
+    color: #272727;
+    font-family: Lato;
+    font-size: 50px;
+    font-style: normal;
+}
+
+.banner-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    padding: 30px 30;
+    margin-top: 20px;
+}
+
+.btn-primary {
+    color: #FFF;
+    font-size: 20px;
+    background-color: rgb(187, 81, 98);
+    padding: 20px 43px;
+    margin-top: 20px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.banner-img{
+    width: 500px;
+}
+
+
+
+
+
+
+
