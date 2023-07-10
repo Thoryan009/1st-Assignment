@@ -10,7 +10,7 @@
 
     display: flex;
     align-items: center;
-   
+
     padding: 50px 200px;
     background-color: rgb(252, 232, 236);
     width: auto;
@@ -48,66 +48,74 @@
 }
 
 /*-------feature dection---------*/
-.feature-section{
+.feature-section {
     margin: 100px 0;
 }
-.feature{
+
+.feature {
     text-align: center;
+    
 }
-.feature-content{
+
+.feature-content {
     display: flex;
     justify-content: space-around;
 }
-.feature-div{
+
+.feature-div {
     text-align: center;
     padding-top: 40px;
 }
 
-#img1{
+#img1 {
     padding: 90px 20px;
     background-color: aquamarine;
     margin-bottom: 30px;
     border-radius: 200px 200px 0 0;
 
 }
-#img2{
+
+#img2 {
     background-color: rgb(228, 248, 248);
-    padding: 33px ;
+    padding: 33px;
     margin-bottom: 30px;
     border-radius: 200px 200px 0 0;
 }
-#img3{
+
+#img3 {
     background-color: rgb(221, 239, 255);
-    padding: 15px ;
+    padding: 15px;
     margin-bottom: 30px;
     border-radius: 200px 200px 0 0;
 }
 
 
-.feature-img{
+.feature-img {
     width: 300px;
 }
 
 /*-----------Instagram---------*/
 
-.instagram{
+.instagram {
     text-align: center;
     padding-bottom: 25px;
-    
+
 }
 
-.instagram-imgs{
+.instagram-imgs {
     display: flex;
     justify-content: space-around;
     gap: 30px;
     align-items: center;
     padding-top: 50px;
-    width: 100%;
-  
-    
-    
+    margin: 0 100px;
+   
+
+
+
 }
-.inst-img{
+
+.inst-img {
     width: 250px;
 }
 
@@ -128,7 +136,8 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color:  rgb(252, 232, 236); ;
+    background-color: rgb(252, 232, 236);
+    ;
     margin: 50px 100px;
 }
 
@@ -151,27 +160,67 @@
     width: 300px;
     padding: 50px;
 }
-.btn{
-    padding-left: 50px ;
+
+.btn {
+    padding-left: 50px;
     margin-left: 200px;
     font: 1em sans-serif;
 }
 
 /*------login part---------*/
 
-.login{
+.login {
     text-align: center;
     padding-top: 100px;
     height: auto;
     margin-top: 100px;
     padding-bottom: 100px;
     background-image: url('./Flower Asset/Rectangle\ 9.png')
-    
 }
-input{
+
+input {
     padding: 25px 500px 25px 25px;
     border: none;
     border-radius: 10px;
     margin-right: 10px;
+
+}
+
+/*------footer----------*/
+
+.footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    margin-top: 100px ;
+    padding: 100px 0;
+}
+
+.footer-description {
+    color: rgba(197, 196, 196, 0.9);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    padding-top: 20px;
+}
+
+.footer-copiright {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    font-style: normal;
+    padding-top: 20px;
+}
+.flower{
     
+    color: #E55473;
+}
+    
+.footer-title {
+    
+font-size: 48px;
+font-style: normal;
+font-weight: ;
 }
