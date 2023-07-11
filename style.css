@@ -1,7 +1,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: lato, sans-serif;
+    
 }
 
 /*-----------banner---------*/
@@ -45,6 +45,7 @@
 
 .banner-img {
     width: 500px;
+    
 }
 
 /*-------feature dection---------*/
@@ -222,5 +223,4 @@ input {
     
 font-size: 48px;
 font-style: normal;
-font-weight: ;
 }
