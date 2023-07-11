@@ -96,7 +96,9 @@
 }
 
 /*-----------Instagram---------*/
-
+a{
+    font-size: 20px;
+}
 .instagram {
     text-align: center;
     padding-bottom: 25px;
@@ -132,7 +134,9 @@
 
 /*----------advertisement section---------*/
 
-
+.advertisement-heading-style{
+    color: rgb(187, 81, 98);;
+}
 .advertisement {
     display: flex;
     justify-content: space-around;
