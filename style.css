@@ -144,7 +144,8 @@ a{
     align-items: center;
     background-color: rgb(252, 232, 236);
     ;
-    margin: 50px 100px;
+    margin: 50px 0;
+    width: 100%;
 }
 
 .header {
