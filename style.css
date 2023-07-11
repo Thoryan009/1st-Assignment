@@ -50,11 +50,12 @@
 
 /*-------feature dection---------*/
 .feature-section {
-    margin: 100px 0;
+    margin: 100px 70px;
 }
 
 .feature {
     text-align: center;
+    padding-bottom: 20px ;
     
 }
 
