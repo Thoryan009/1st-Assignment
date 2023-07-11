@@ -44,7 +44,10 @@
 }
 
 .banner-img {
-    width: 500px;
+    width: 450px;
+    margin-left: 80px;
+    
+    
     
 }
 
@@ -230,4 +233,32 @@ input {
     
 font-size: 48px;
 font-style: normal;
+}
+
+
+/*-----Table--------*/
+
+table{
+    border-collapse: collapse;
+    background-color: rgb(252, 232, 236);
+    ;
+    font-size: 20x;
+    margin: 20px 100px;
+    font-family: lato;
+}
+
+
+caption{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+thead {
+    text-align: center;
+}
+
+td{
+    border: 2px solid black;
+    padding: 5px 20px;
 }
